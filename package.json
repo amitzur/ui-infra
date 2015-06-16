@@ -1,0 +1,26 @@
+{
+  "name": "ui-infra",
+  "version": "1.0.0",
+  "description": "UI Infra tools for my local projects",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amitzur/ui-infra"
+  },
+  "keywords": [
+    "UI"
+  ],
+  "author": "Amit Zur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitzur/ui-infra/issues"
+  },
+  "homepage": "https://github.com/amitzur/ui-infra",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1"
+  }
+}
